@@ -114,26 +114,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-### 🏠 Homepage
-![Homepage](public/screenshots/homepage.png)
-
-### 🎯 Interview Setup
-![Interview Setup](public/screenshots/interview-setup.png)
-
-### 🎤 Voice Interview
-![Voice Interview](public/screenshots/voice-interview.png)
-
-### 📊 Feedback Dashboard
-![Feedback](public/screenshots/feedback.png)
-
-</div>
-
----
-
 ## 🔧 Configuration
 
 ### VAPI Setup
@@ -252,19 +232,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[shadcn/ui](https://ui.shadcn.com)** - For UI components
 
 ---
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 💬 **Discord**: [Join our community](#)
-- 🐦 **Twitter**: [@your-twitter](#)
-- 📖 **Documentation**: [Wiki](#)
-
----
-
-<div align="center">
 
 **⭐ Star this repository if you found it helpful!**
 
